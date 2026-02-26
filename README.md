@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 The **Product Profit and Sales Performance Dashboard** is an interactive Business Intelligence solution designed to analyze and monitor overall business performance.
-<img width="1563" height="738" alt="image" src="https://github.com/user-attachments/assets/8a06cd3d-04d4-4706-8018-3142fc7acb3f" />
+<img width="1460" height="740" alt="image" src="https://github.com/user-attachments/assets/06e6b7bf-066f-49bf-98af-e5b2cf2763ea" />
 
 This dashboard provides detailed insights into:
 
